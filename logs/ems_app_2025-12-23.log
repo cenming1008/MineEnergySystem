@@ -1,0 +1,1 @@
+2025-12-23 21:14:19.127 | INFO     | app.main:lifespan:40 - ❌ [Redis] 连接失败: Error 111 connecting to localhost:6379. Connect call failed ('127.0.0.1', 6379).
